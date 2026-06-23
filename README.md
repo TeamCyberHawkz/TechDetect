@@ -118,7 +118,7 @@ To add new fingerprints to the database:
 Ready to initialize a connection? Open a secure tunnel to our community:
 
 - 🌐 **Website**: [https://cyberhawkz.com](https://cyberhawkz.com)
-- 🐦 **Twitter**: [@TeamCyberHawkz](https://twitter.com/TeamCyberHawkz)
+- 🐦 **Twitter**: [@TeamCyberHawkz](https://x.com/CyberHawkz)
 - 🔗 **GitHub**: [TeamCyberHawkz](https://github.com/TeamCyberHawkz)
 
 ---
